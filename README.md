@@ -3,3 +3,4 @@
 🏠 Address Hagenbeckstr.60, 22527, Hamburg, Geramny
 
 ## 👨🏽‍💻   My Skills
+# Micrsofot excel, Dax, Microsoft power bi, SQL, MySQL, PostgreSQL, Python, Numpy, Matplotlip, Plotly, Statistical analysis, Tableau
