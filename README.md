@@ -1,6 +1,2 @@
-### Hi there, 
+I am Enthusiastic and detail-oriented data science enthusiast with a solid foundation in data cleaning, processing, visualization, statistical analysis, and machine learning. I can transform complex datasets into actionable insights and able to make data-driven decision-making. I am also proficient in creating reports, dashboards, and presentations and strong ability to leverage technical skills and domain knowledge to provide valuable solutions.
 
-I am Mohammad Basir Uddin. I am studying Masters in Ocean and climate physics at Hamburg University. I am interested in Statistics, Machine learning and Climate modeling.
-
-## My Skills
-Python, NumPy, Xarray, Pandas, Matplotlib, Statistical analysis, Machine Learning, Deep Learning, sklearn, TensorFlow, Keras, Excel, DAX, Power bi, Tableau, PowerPoint.
